@@ -1,4 +1,4 @@
-# [Tên của bạn ở đây - Ví dụ: Dang]
+# Đặng Hải Đăng
 
 <p align="center">
   🎓 Computer Science • Artificial Intelligence • Reinforcement Learning<br>
