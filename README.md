@@ -15,7 +15,7 @@
 - **Major:** Computer Science
 - **Institution:** Hanoi University of Science and Technology (HUST)
 - **Research Project:** MARS (Multi-Agent Review Synthesis)
-> "Slogan hoặc một câu trích dẫn yêu thích của bạn ở đây."
+
 
 ---
 
